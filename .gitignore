@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.log
+outputs/*.json
+!outputs/sample_time_entries.sanitized.json
