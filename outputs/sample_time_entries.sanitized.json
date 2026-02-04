@@ -1,0 +1,49 @@
+[
+  {
+    "id": "4418972009741553422",
+    "task": {
+      "id": "868cewd0z",
+      "name": "Task A",
+      "status": {
+        "status": "closed",
+        "color": "#008844",
+        "type": "closed",
+        "orderindex": 4
+      },
+      "custom_type": 1006
+    },
+    "wid": "9011198866",
+    "user": {
+      "id": 81453341,
+      "username": "User A",
+      "email": "redacted@example.com",
+      "color": "#0388d1",
+      "initials": "UA",
+      "profilePicture": null
+    },
+    "billable": false,
+    "start": "1739187395658",
+    "end": "1739187400627",
+    "duration": "4969",
+    "description": "",
+    "tags": [],
+    "source": "clickup_automatic",
+    "at": "1739187400627",
+    "is_locked": false,
+    "approval_id": null,
+    "task_location": {
+      "list_id": "901104234796",
+      "folder_id": "90115581997",
+      "space_id": "90110906361",
+      "list_name": "Client A",
+      "folder_name": "Operations",
+      "space_name": "TASKS"
+    },
+    "task_tags": [],
+    "task_url": null,
+    "workspace_id": "9011198866",
+    "workspace_nome": "Workspace Principal",
+    "usuario_id": "81453341",
+    "usuario_nome": "User A"
+  }
+]
